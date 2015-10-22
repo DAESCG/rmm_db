@@ -1,6 +1,6 @@
 # write_rmm_db.py
 """
-Write and update an RMM database.
+Generate and populate a SQL database with daily RMM index values.
 """
 #---------------
 # Import modules
